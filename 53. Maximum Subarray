@@ -8,3 +8,4 @@ class Solution:
             res_so_far = max(nums[i],  nums[i]+res_so_far)
             res = max(res, res_so_far)
         return res
+https://zhuanlan.zhihu.com/p/37570405
